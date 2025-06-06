@@ -1,29 +1,27 @@
-中国香港
-100MB （Datapacket/CDN77）
+#中国香港
+-100MB （Datapacket/CDN77）
 http://hkg.download.datapacket.com/100mb.bin
-1000MB（Datapacket/CDN77）
+-1000MB（Datapacket/CDN77）
 http://hkg.download.datapacket.com/1000mb.bin
-10000MB（Datapacket/CDN77）
+-10000MB（Datapacket/CDN77）
 http://hkg.download.datapacket.com/10000mb.bin
-#
-新加坡
+#新加坡
 100/1000/10000MB （Datapacket/CDN77）
 http://sgp.download.datapacket.com/100mb.bin
 http://sgp.download.datapacket.com/1000mb.bin
 http://sgp.download.datapacket.com/10000mb.bin
-100MB（OVH）
+-100MB（OVH）
 https://sgp.proof.ovh.net/files/100Mb.dat
-100MB（Vultr）
+-100MB（Vultr）
 https://sgp-ping.vultr.com/vultr.com.100MB.bin
-1GB（OVH）
+-1GB（OVH）
 https://sgp.proof.ovh.net/files/1Gb.dat
-1GB（Vultr）
+-1GB（Vultr）
 https://sgp-ping.vultr.com/vultr.com.1000MB.bin
-10GB（OVH）
+-10GB（OVH）
 https://sgp.proof.ovh.net/files/10Gb.dat
-#
-日本东京
-100/1000/10000MB （Datapacket/CDN77）
+#日本东京
+-100/1000/10000MB （Datapacket/CDN77）
 http://tyo.download.datapacket.com/100mb.bin
 http://tyo.download.datapacket.com/1000mb.bin
 http://tyo.download.datapacket.com/10000mb.bin
